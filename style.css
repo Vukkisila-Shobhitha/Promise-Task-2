@@ -1,17 +1,18 @@
-
-.promise{
-    text-align: center;
+body{
+    background-color: lightblue;
 }
-
-.coin_url{
+h1{
     text-align: center;
-    background-color: rgb(181, 181, 240);
-    /* width: 50%; */
+    color:black;
 }
-
-
-#coin{
+.row{
+    margin: 25px 25px;
+}
+.card{
     text-align: center;
+    margin: 10px 10px;
 }
-
-
+.list-group-item{
+    background-color: darkblue;
+    color:aliceblue;
+}
